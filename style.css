@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  background: url(./image.png);
+  background: url(./assets/image.png);
   background-size: cover;
   color: #1f2328;
   display: flex;
